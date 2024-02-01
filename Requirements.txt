@@ -1,0 +1,15 @@
+
+# Before you run the app, follow the steps below:
+# Install the following libraries from the command prompt/terminal if not already installed
+pip install pandas
+pip install scikit-learn
+pip install streamlit==1.11.0
+pip install st-annotated-text
+pip install xgboost
+pip install lightgbm
+pip install joblib
+
+# To run the app, Enter (cd) into the folder containing the app ('fraud_detection.py') and the models
+# In the command prompt/ terminal
+# Type the command below: 
+streamlit run fraud_detection.py

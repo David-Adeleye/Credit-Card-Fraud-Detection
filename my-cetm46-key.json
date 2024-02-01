@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-cetm46",
+  "private_key_id": "cea92790f1589150a68b0d54074e3a9528fb1362",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOJRvPk3gRfi04\nM50UzfCfiPnujmCGJbn4g/G2Qch796O6YlB+A6FW3WJeZU8TZ9A9LZO7JSiikjpm\nZbJhoIKM7Xw0evyDqB2k/ELT288L7fQJzqgOuBNj0lOhLHmM/V0mqfGWaeQDFbhw\n3it+84XYxcaGAZnnnOUUX7ROL06YqbSMFEiNQoygeqVbx1icPalbbmj/1c3CycQ0\nKfx/BcBRzWqdX9Pbayld76OWUS4sUqJbUVGx3CQqMFZUggMp2BnZBqwEZRnOSgZA\nHauDnUNf81tWkieKYDlOM20BegxgYz8+/a9NzhPdpngLIf4qNg7k36M2StE1KmZE\n7fMH60PFAgMBAAECggEAB6iSLgXpAzBEKXIGdZd+7mmH5cWAB9pCgdRCEqrKrXsz\nNBiV86QobjCxWxqkPwxp2NH60qt23AN66Ad0q/Pk9Mja100FC+bj6f65bwa5yg/B\nBUJAJcLfMJKldNqblfAUs7+WR59e7Jef/1zJBScDwCEvyAqQCz2Vzho18bx0xJ7T\nj/V6tBAGcGUkeeVR1cU+eR3NFgTbw201F4TJ/AsQNTXt+i/QjP9jObi4JR/I6l8E\nSfrXsXOj6c9zMTGlnOTRhkzJv7d32NCXYKBxReDIus16k3meRIcFFuExFpCjlCGK\nRo/jdb4klQ6bKXW0M7iF5CSDv1cxh9ui/BkzBer8ZQKBgQDAhWLwiORDC5XP1vBV\nZkHKZt9N/EMdp7HaXxXcOeWVm/HgaZWNWLC39VGK1BGiePpPU1XgIiB+rcFjlXmi\nhbRJMkrW5TLEzI7xPJ4CGjkK1H9gHVdRRs0Gqf7R1+oc1UETd3+X6v0nTTijm030\nMHL4BLN6MFysYPzEpo1HFksxIwKBgQC9A3/sPeGMwmHVqUADWW5U9dgZXAcjy9ot\nfs+4rb2ew59sUtXlAsTd7y7RW1/zXYJTrxY4VknLOeyE7vek0zvtbO2Qf+WV39dX\n6n+91WnU9W8YqYTziy9R0vK0jiP4xIuhS6ZBUXHaIm6J+Uyh1XWKrvzTQ+wyF7yd\nNx+OpSLp9wKBgGpyVf5A8lTPtwmwAjp1y7KpppZsAIAJFKF1KZUWvgY2r0oxlusM\nOsm77lYgY4+97Ein/zdqJyVj1SXGo/ZkjwZZtF+VYrjFkdN4fLUU4q1GSRdPodPi\nncIthCNqiptenhixXe8VktuEKujrGfMGRsszbjkFPHhjN99TZ5IClZiZAoGAMCEk\nAdQACwe0QePHGRM8tQWk8VAtwT+3Xr5bxnr3PeYyQjMVpCsAVkMBeO37kMzO0uBS\nmCXgxI8LWw4+oQnoyJxkIddvbqqA+zILNRuSx1d34p/H6vwWII/GnZNUNZRWucu5\nmghTJWh/HUMN8GeadqX4WxOAoYDJ1n6i2n/SVCECgYAsrM4C0OWLhV+6mXEPvWG0\nlOCCNtHsIUwvX0R/UfE8owgFM4vOAkQlaMXe/V6bPgZmWr3u0t6xkc13PX+vPKlT\nCtiP3NJtjUAT5Mo9qrBXyE4yev9pIJAfM19n1YG+UN+5I/VQRJywnQZETbY8zHWP\nh6CJwRcSK50HwzXgDjWElg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "davidassignment@my-cetm46.iam.gserviceaccount.com",
+  "client_id": "106191153990627199541",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/davidassignment%40my-cetm46.iam.gserviceaccount.com"
+}
