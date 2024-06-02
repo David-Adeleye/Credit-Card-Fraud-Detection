@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Transaction Result</title>
+    <style>
+      .red {
+        color: red;
+      }
+      .yellow {
+        color: yellow;
+      }
+      .green {
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Transaction Result</h1>
+    <p>Random Forest Probability: {{rf_prob}}</p>
+    <p>XGBoost Probability: {{xgb_prob}}</p>
+    <p>LightGBM Probability: {{lgbm_prob}}</p>
+    <p>Average Probability: {{avg_prob}}</p>
+    <p>Classification: <span class="{{color}}">{{classification}}</span></p>
+  </body>
+</html>

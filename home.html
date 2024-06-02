@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Credit Card Fraud Detection</title>
+</head>
+<body>
+	<div class="header">
+		<h1>Credit Card Fraud Detection</h1>
+	</div>
+	
+	<div class="form">
+		<form action="{{url_for('result')}}" method="POST">
+			<label for="trans_amt">Transaction Amount:</label>
+			<input type="text" id="trans_amt" name="trans_amt" required><br><br>
+			
+			<label for="card1">Card Number:</label>
+			<input type="text" id="card1" name="card1" required><br><br>
+			
+			<label for="card2">Card Exp Year:</label>
+			<input type="text" id="card2" name="card2" required><br><br>
+			
+			<label for="card3">Card Exp Month:</label>
+			<input type="text" id="card3" name="card3" required><br><br>
+			
+			<label for="card5">Card CVV:</label>
+			<input type="text" id="card5" name="card5" required><br><br>
+			
+			<label for="addr1">Billing Zip Code:</label>
+			<input type="text" id="addr1" name="addr1" required><br><br>
+			
+			<label for="dist1">Distance:</label>
+			<input type="text" id="dist1" name="dist1" required><br><br>
+			
+			<label for="card6">Card Class:</label>
+			<select id="card6" name="card6">
+				<option value="debit">debit</option>
+				<option value="credit">credit</option>
+			</select><br><br>
+			
+			<label for="card4">Card Type:</label>
+			<select id="card4" name="card4">
+				<option value="american express">American Express</option>
+				<option value="discover">Discover</option>
+				<option value="mastercard">Mastercard</option>
+				<option value="visa">Visa</option>
+			</select><br><br>
+			
+			<label for="P_emaildomain">Email Domain:</label>
+			<select id="P_emaildomain" name="P_emaildomain">
+				<option value="Microsoft">Microsoft</option>
+				<option value="Others">Others</option>
+				<option value="Yahoo Mail">Yahoo Mail</option>
+				<option value="Google">Google</option>
+			</select><br><br>
+			
+			<input type="submit" value="Submit">
+		</form>
+	</div>
+	
+	<div class="footer">
+		<p>Designed by David Adeleye</p>
+	</div>
+</body>
+</html>
